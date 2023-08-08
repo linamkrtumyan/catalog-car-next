@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 25000,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Froadshow%2Freviews%2F2021-toyota-camry-trd-v6-auto-review%2F&psig=AOvVaw1NncGsSK_g32fOSQHcatGu&ust=1691591754819000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjFsr2kzYADFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "price": 22000,
+      "image": "https://www.honda.co.uk/content/dam/central/cars/civic-hybrid/overview-v3/Honda-civic-hybrid-01-1x1-mobile.jpg/_jcr_content/renditions/m_r.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "price": 35000,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4e9a7794-1663012415.jpg?resize=2048:*"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet Equinox",
+      "price": 28000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    },
+    {
+      "id": 5,
+      "name": "Nissan Altima",
+      "price": 23000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    },
+    {
+      "id": 6,
+      "name": "BMW 3 Series",
+      "price": 40000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    },
+    {
+      "id": 7,
+      "name": "Audi A4",
+      "price": 38000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    },
+    {
+      "id": 8,
+      "name": "Mercedes-Benz C-Class",
+      "price": 42000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    },
+    {
+      "id": 9,
+      "name": "Subaru Outback",
+      "price": 27000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    },
+    {
+      "id": 10,
+      "name": "Kia Sportage",
+      "price": 25000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3cXGeG9g92c_zu4eojVtHDBPyPQR69w6-nFjcplu&s"
+    }
+  ]
+}
